@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "foot_custom.pretty") (type "KiCad") (uri "${KIPRJMOD}/Pedale_Completo_footprints.pretty/Pedale_Completo.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Pedale_Completo.pretty/Library.pretty") (options "") (descr ""))
+)
